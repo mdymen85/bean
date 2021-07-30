@@ -1,0 +1,3 @@
+application:
+  pessoa-service:
+    enabled: false
